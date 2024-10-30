@@ -8,7 +8,7 @@ import openpyxl
 
 
 # Loading the dataset
-df = pd.read_excel('/Desktop/BETA/DATA_SCIENCE/Analysis/2023_rent_prices_in_zambia/Lsk_rent_houses_mar23.xlsx')
+df = pd.read_excel('Lsk_rent_houses_mar23.xlsx')
 
 
 # ### Data Cleaning
